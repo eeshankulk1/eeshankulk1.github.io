@@ -19,3 +19,11 @@ My first plot was created to show the distribution of all the various license ty
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
 
 ```
+
+# Plot 2
+
+For plot 2, I wanted to see how the license statuses varied from license to license. For this, I created an interactive plot that allows you to choose the license you want to investigate, and the bar plot adapts to show the counts of each license status for said license. I chose to do this for my interactive visualization because it allowed me to see the "history" of each license type, and what the status of those who obtained the lience is. It was actually very interesting, as many licenses had a much higher rate of suspended or not renewed compared to others, suggesting that profession might have a lot of people leaving after working for a few years.
+
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+
