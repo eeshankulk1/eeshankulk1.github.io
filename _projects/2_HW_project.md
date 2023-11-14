@@ -31,6 +31,6 @@ For plot 2, I wanted to see how the license statuses varied from license to lice
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
 
